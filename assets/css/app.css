@@ -1,0 +1,149 @@
+ /* Stock Developer Fonts */
+@font-face {
+  font-family: 'DIN';
+  src: url('../../lib/DIN-Regular/DIN-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'D-DIN';
+  src: url('../../lib/d-din/D-DIN.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../lib/Figtree/static/Figtree-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gilroy';
+  src: url('../../lib/gilroy/Gilroy-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mandali';
+  src: url('../../lib/Mandali/Mandali-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Outfit';
+  src: url('../../lib/Outfit/static/Outfit-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lexend';
+  src: url('../../lib/Lexend/static/Lexend-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../../lib/Lato/Lato-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Metropolis';
+  src: url('../../lib/Metropolis/Metropolis-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'San-Francisco';
+  src: url('../../lib/San-Francisco/otf/SFNSText-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Quicksand';
+  src: url('../../lib/Quicksand/static/Quicksand-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sen';
+  src: url('../../lib/Sen/static/Sen-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Rubik';
+  src: url('../../lib/Rubik/static/Rubik-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FF-Mark';
+  src: url('../../lib/FF-Mark/FontFont_FF.Mark.Pro.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('../../lib/Ubuntu/Ubuntu-Regular.ttf ') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Body Styles  */
+
+body {
+  background: rgb(37, 1, 95);
+  font-family: 'Courier New', Courier, monospace; /* Default system fallback */
+font-size: 1.2rem;
+}
+
+/* Font Class Styles */
+.din {
+  font-family: 'DIN', sans-serif;
+}
+.d-din {
+  font-family: 'D-DIN', sans-serif;
+}
+.figtree {
+  font-family: 'Figtree', sans-serif !important;
+}
+.gilroy {
+  font-family: 'Gilroy', sans-serif !important;
+}
+.mandali {
+  font-family: 'Mandali', sans-serif !important;
+}
+.outfit {
+  font-family: 'Outfit', sans-serif !important;
+}
+.lexend {
+  font-family: 'Lexend', sans-serif !important;
+}
+.lato {
+  font-family: 'Lato', sans-serif !important;
+}
+.metropolis {
+  font-family: 'Metropolis', sans-serif !important;
+}
+.san-francisco {
+  font-family: 'San-Francisco', sans-serif !important;
+}
+.quicksand {
+  font-family: 'Quicksand', sans-serif !important;
+}
+.sen {
+  font-family: 'Sen', sans-serif !important;
+}
+.rubik {
+  font-family: 'Rubik', sans-serif !important;
+}
+.ff-mark {
+  font-family: 'FF-Mark', sans-serif !important;
+}
+.ubuntu {
+  font-family: 'Ubuntu', sans-serif !important;
+}
+ 
