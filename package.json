@@ -1,0 +1,31 @@
+{
+  "name": "developer-fonts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "assets/js/"
+  },
+  "scripts": {
+    "minify": "terser assets/js/app.devfonts.js -o assets/js/app.devfonts.min.js",
+    "watch": "npm-watch"
+  },
+  "watch": {
+    "minify": {
+      "patterns": [
+        "app.devfonts.js"
+      ],
+      "extensions": "js"
+    }
+  },
+  "keywords": [],
+  "author": "Ouma Nyang",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-watch": "^0.13.0",
+    "terser": "^5.33.0"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1"
+  }
+}

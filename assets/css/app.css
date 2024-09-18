@@ -14,7 +14,7 @@
 
 @font-face {
   font-family: 'Figtree';
-  src: url('../../lib/Figtree/static/Figtree-Regular.ttf') format('truetype');
+  src: url('../../lib/Figtree/Figtree-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -32,13 +32,13 @@
 }
 @font-face {
   font-family: 'Outfit';
-  src: url('../../lib/Outfit/static/Outfit-Regular.ttf') format('truetype');
+  src: url('../../lib/Outfit/Outfit-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lexend';
-  src: url('../../lib/Lexend/static/Lexend-Regular.ttf') format('truetype');
+  src: url('../../lib/Lexend/Lexend-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -62,19 +62,19 @@
 }
 @font-face {
   font-family: 'Quicksand';
-  src: url('../../lib/Quicksand/static/Quicksand-Regular.ttf') format('truetype');
+  src: url('../../lib/Quicksand/Quicksand-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Sen';
-  src: url('../../lib/Sen/static/Sen-Regular.ttf') format('truetype');
+  src: url('../../lib/Sen/Sen-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Rubik';
-  src: url('../../lib/Rubik/static/Rubik-Regular.ttf') format('truetype');
+  src: url('../../lib/Rubik/Rubik-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
